@@ -1,0 +1,15 @@
+add_library(data_structures
+        bitset/bitset.c
+        unordered_array/unordered_array.h
+        unordered_array/unordered_array.c
+        ordered_array/ordered_array.h
+        ordered_array/ordered_array.c
+        vector/vector.h
+        vector/vector.c
+        vector/vectorVoid.c
+        vector/vectorVoid.h
+        matrix/matrix.c
+        matrix/matrix.h
+        string/string.h
+        string/string.c
+)

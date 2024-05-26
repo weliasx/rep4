@@ -1,0 +1,51 @@
+{
+	"kind" : "toolchains",
+	"toolchains" : 
+	[
+		{
+			"compiler" : 
+			{
+				"id" : "GNU",
+				"implicit" : 
+				{
+					"includeDirectories" : 
+					[
+						"E:/\u2568\u2510\u2564\u0410\u2568\u255b\u2568\u2502\u2564\u0410\u2568\u2591\u2568\u255d\u2568\u255d\u2568\u2555\u2564\u0410\u2568\u255b\u2568\u2593\u2568\u2591\u2568\u255c\u2568\u2555\u2568\u2561/CLion 2023.2.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include",
+						"E:/\u2568\u2510\u2564\u0410\u2568\u255b\u2568\u2502\u2564\u0410\u2568\u2591\u2568\u255d\u2568\u255d\u2568\u2555\u2564\u0410\u2568\u255b\u2568\u2593\u2568\u2591\u2568\u255c\u2568\u2555\u2568\u2561/CLion 2023.2.2/bin/mingw/include",
+						"E:/\u2568\u2510\u2564\u0410\u2568\u255b\u2568\u2502\u2564\u0410\u2568\u2591\u2568\u255d\u2568\u255d\u2568\u2555\u2564\u0410\u2568\u255b\u2568\u2593\u2568\u2591\u2568\u255c\u2568\u2555\u2568\u2561/CLion 2023.2.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed",
+						"E:/\u2568\u2510\u2564\u0410\u2568\u255b\u2568\u2502\u2564\u0410\u2568\u2591\u2568\u255d\u2568\u255d\u2568\u2555\u2564\u0410\u2568\u255b\u2568\u2593\u2568\u2591\u2568\u255c\u2568\u2555\u2568\u2561/CLion 2023.2.2/bin/mingw/x86_64-w64-mingw32/include"
+					],
+					"linkDirectories" : [],
+					"linkFrameworkDirectories" : [],
+					"linkLibraries" : []
+				},
+				"path" : "E:/\u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435/CLion 2023.2.2/bin/mingw/bin/gcc.exe",
+				"version" : "13.1.0"
+			},
+			"language" : "C",
+			"sourceFileExtensions" : 
+			[
+				"c",
+				"m"
+			]
+		},
+		{
+			"compiler" : 
+			{
+				"implicit" : {},
+				"path" : "E:/\u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435/CLion 2023.2.2/bin/mingw/bin/windres.exe"
+			},
+			"language" : "RC",
+			"sourceFileExtensions" : 
+			[
+				"rc",
+				"RC"
+			]
+		}
+	],
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}
