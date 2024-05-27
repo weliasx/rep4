@@ -5,6 +5,7 @@ int string_strlen(const char *begin) {
     while (*end != '\0')
         end++;
     return end - begin;
+    
 }
 
 char *string_find(char *begin, char *end, int ch) {
