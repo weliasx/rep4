@@ -53,7 +53,7 @@ void printTrajectories(int size, int arr_of_trajectories[][size]) {
 
 int main() {
     int x, y;
-    printf("Enter x and y\n");
+    printf("Enter x and y:\n");
     scanf("%d %d", &x, &y);
     int size = x + y;
     int vector[size];
