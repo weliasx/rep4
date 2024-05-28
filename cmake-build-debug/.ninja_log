@@ -1,0 +1,16 @@
+# ninja log v5
+25	177	7386210190098227	CMakeFiles/untitled12.dir/libs/data_structures/bitset/bitset.c.obj	6146d24e87467350
+44	223	7386210190548331	CMakeFiles/untitled12.dir/libs/data_structures/vector/vector.c.obj	56d52ab1e3b76555
+10	190	7386210190208254	CMakeFiles/untitled12.dir/libs/algorithms/array/array.c.obj	ff89e4e81e390826
+13	147	7386210189788160	CMakeFiles/untitled12.dir/main.c.obj	dfc6041d8fef05f1
+21	197	7386210190308270	CMakeFiles/untitled12.dir/libs/algorithms/sort/sort.c.obj	ca290d526a0df1ae
+29	256	7386210190908402	CMakeFiles/untitled12.dir/libs/data_structures/matrix/matrix.c.obj	6e78b2a8809434cc
+34	209	7386210190438309	CMakeFiles/untitled12.dir/libs/data_structures/vector/vectorVoid.c.obj	582cc34e0773b8ff
+48	212	7386209626093539	CMakeFiles/untitled12.dir/libs/data_structures/string/string.c.obj	363e1c8024b861ac
+40	914	7386342804984430	CMakeFiles/untitled12.dir/libs/data_structures/bitset/bitset.c.obj	6146d24e87467350
+7	919	7386342804979185	CMakeFiles/untitled12.dir/main.c.obj	dfc6041d8fef05f1
+49	920	7386342804998965	CMakeFiles/untitled12.dir/libs/algorithms/sort/sort.c.obj	ca290d526a0df1ae
+86	922	7386342805059516	CMakeFiles/untitled12.dir/libs/data_structures/matrix/matrix.c.obj	6e78b2a8809434cc
+124	923	7386342804984430	CMakeFiles/untitled12.dir/libs/data_structures/vector/vectorVoid.c.obj	582cc34e0773b8ff
+143	926	7386342804998965	CMakeFiles/untitled12.dir/libs/data_structures/string/string.c.obj	363e1c8024b861ac
+24	929	7386342805018465	CMakeFiles/untitled12.dir/libs/algorithms/array/array.c.obj	ff89e4e81e390826

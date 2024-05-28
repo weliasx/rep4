@@ -34,4 +34,9 @@ add_executable(untitled12 main.c
         OP/16/lr_16.h
         "tests_for_labs/lr_16(test).c"
         "tests_for_labs/lr_16(test).h"
+        DM/2-1/task_1.c
+        DM/2-1/task_6.c
+        DM/2-1/task_8.c
+        DM/2-1/task_13.c
+        DM/2-2.c
 )

@@ -2,11 +2,11 @@
 #include <ctype.h>
 #include <memory.h>
 
-//Возвращает количество символов в строке (не считая ноль-символ)
+//Возвращает количество символов в строке(не считая ноль-символ)
 int string_strlen(const char *begin);
 
 //Возвращает указатель на первый элемент с кодом ch, расположенным
-//на ленте памяти между адресами begin и end.
+//на ленте(участке) памяти между адресами begin и end.
 //Если символ не найден, возвращает значение end.
 char* string_find(char *begin, char *end, int ch);
 
@@ -37,7 +37,7 @@ int string_strcmp(const char *lhs, const char *rhs);
 
 //Записывает по адресу beginDestination фрагмент памяти, начиная с
 //адреса beginSource до endSource. Возвращает указатель на следующий
-//свободный участок памяти в destination
+//свободный участок памяти в destination.
 char* string_copy(const char *beginSource, const char *endSource, char *beginDestination);
 
 //Записывает по адресу beginDestination элементы из фрагмента памяти начиная с
