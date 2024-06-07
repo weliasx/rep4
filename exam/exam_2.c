@@ -18,7 +18,7 @@ int main() {
     }
     fseek(input_file, 0, SEEK_SET);
     for (int i = 0; i < odd_count; i++) {
-        
+
         // Находим последнее нечетное число
         while (fread(&num, sizeof(int), 1, input_file) && num % 2 == 0);
 
