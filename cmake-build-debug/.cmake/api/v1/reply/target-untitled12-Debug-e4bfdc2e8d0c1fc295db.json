@@ -75,7 +75,8 @@
 				32,
 				33,
 				34,
-				35
+				35,
+				36
 			]
 		}
 	],
@@ -135,7 +136,8 @@
 				32,
 				33,
 				34,
-				35
+				35,
+				36
 			]
 		},
 		{
@@ -361,6 +363,12 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "DM/2-2.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "exam/exam.c",
 			"sourceGroupIndex" : 0
 		}
 	],
