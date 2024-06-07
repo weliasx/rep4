@@ -199,6 +199,12 @@ build CMakeFiles/untitled12.dir/exam/exam.c.obj: C_COMPILER__untitled12_unscanne
   OBJECT_DIR = CMakeFiles\untitled12.dir
   OBJECT_FILE_DIR = CMakeFiles\untitled12.dir\exam
 
+build CMakeFiles/untitled12.dir/exam/exam_2.c.obj: C_COMPILER__untitled12_unscanned_Debug C$:/Users/user/CLionProjects/untitled12/exam/exam_2.c || cmake_object_order_depends_target_untitled12
+  DEP_FILE = CMakeFiles\untitled12.dir\exam\exam_2.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\untitled12.dir
+  OBJECT_FILE_DIR = CMakeFiles\untitled12.dir\exam
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target untitled12
@@ -207,7 +213,7 @@ build CMakeFiles/untitled12.dir/exam/exam.c.obj: C_COMPILER__untitled12_unscanne
 #############################################
 # Link the executable untitled12.exe
 
-build untitled12.exe: C_EXECUTABLE_LINKER__untitled12_Debug CMakeFiles/untitled12.dir/main.c.obj CMakeFiles/untitled12.dir/tests_for_labs/lr_15(test_martix).c.obj CMakeFiles/untitled12.dir/libs/algorithms/array/array.c.obj CMakeFiles/untitled12.dir/libs/algorithms/sort/sort.c.obj CMakeFiles/untitled12.dir/libs/data_structures/bitset/bitset.c.obj CMakeFiles/untitled12.dir/libs/data_structures/matrix/matrix.c.obj CMakeFiles/untitled12.dir/libs/data_structures/ordered_array/ordered_array.c.obj CMakeFiles/untitled12.dir/libs/data_structures/string/string.c.obj CMakeFiles/untitled12.dir/libs/data_structures/unordered_array/unordered_array.c.obj CMakeFiles/untitled12.dir/libs/data_structures/vector/vector.c.obj CMakeFiles/untitled12.dir/libs/data_structures/vector/vectorVoid.c.obj CMakeFiles/untitled12.dir/DM/1-3/tmv.c.obj CMakeFiles/untitled12.dir/DM/1-1/3a.c.obj CMakeFiles/untitled12.dir/DM/1-1/3b.c.obj CMakeFiles/untitled12.dir/DM/1-1/3c.c.obj CMakeFiles/untitled12.dir/DM/1-1/4a.c.obj CMakeFiles/untitled12.dir/DM/1-1/5a.c.obj CMakeFiles/untitled12.dir/OP/16/lr_16.c.obj CMakeFiles/untitled12.dir/tests_for_labs/lr_16(test).c.obj CMakeFiles/untitled12.dir/DM/2-1/task_1.c.obj CMakeFiles/untitled12.dir/DM/2-1/task_6.c.obj CMakeFiles/untitled12.dir/DM/2-1/task_8.c.obj CMakeFiles/untitled12.dir/DM/2-1/task_13.c.obj CMakeFiles/untitled12.dir/DM/2-2.c.obj CMakeFiles/untitled12.dir/exam/exam.c.obj
+build untitled12.exe: C_EXECUTABLE_LINKER__untitled12_Debug CMakeFiles/untitled12.dir/main.c.obj CMakeFiles/untitled12.dir/tests_for_labs/lr_15(test_martix).c.obj CMakeFiles/untitled12.dir/libs/algorithms/array/array.c.obj CMakeFiles/untitled12.dir/libs/algorithms/sort/sort.c.obj CMakeFiles/untitled12.dir/libs/data_structures/bitset/bitset.c.obj CMakeFiles/untitled12.dir/libs/data_structures/matrix/matrix.c.obj CMakeFiles/untitled12.dir/libs/data_structures/ordered_array/ordered_array.c.obj CMakeFiles/untitled12.dir/libs/data_structures/string/string.c.obj CMakeFiles/untitled12.dir/libs/data_structures/unordered_array/unordered_array.c.obj CMakeFiles/untitled12.dir/libs/data_structures/vector/vector.c.obj CMakeFiles/untitled12.dir/libs/data_structures/vector/vectorVoid.c.obj CMakeFiles/untitled12.dir/DM/1-3/tmv.c.obj CMakeFiles/untitled12.dir/DM/1-1/3a.c.obj CMakeFiles/untitled12.dir/DM/1-1/3b.c.obj CMakeFiles/untitled12.dir/DM/1-1/3c.c.obj CMakeFiles/untitled12.dir/DM/1-1/4a.c.obj CMakeFiles/untitled12.dir/DM/1-1/5a.c.obj CMakeFiles/untitled12.dir/OP/16/lr_16.c.obj CMakeFiles/untitled12.dir/tests_for_labs/lr_16(test).c.obj CMakeFiles/untitled12.dir/DM/2-1/task_1.c.obj CMakeFiles/untitled12.dir/DM/2-1/task_6.c.obj CMakeFiles/untitled12.dir/DM/2-1/task_8.c.obj CMakeFiles/untitled12.dir/DM/2-1/task_13.c.obj CMakeFiles/untitled12.dir/DM/2-2.c.obj CMakeFiles/untitled12.dir/exam/exam.c.obj CMakeFiles/untitled12.dir/exam/exam_2.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\untitled12.dir

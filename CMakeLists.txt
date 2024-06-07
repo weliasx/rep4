@@ -40,4 +40,5 @@ add_executable(untitled12 main.c
         DM/2-1/task_13.c
         DM/2-2.c
         exam/exam.c
+        exam/exam_2.c
 )
